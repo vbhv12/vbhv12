@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**vbhv12/vbhv12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **vbhv12/vbhv12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+### Connect with me : 
+
+[<img width="38" height="38" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>](mailto:vbhv.diwan@gmail.com)
+[<img width="38" height="38" src="https://img.icons8.com/plasticine/100/000000/linkedin.png"/>](https://www.linkedin.com/in/vaibhav-diwan-243942182)
+[<img width="37" height="37" src="https://img.icons8.com/plasticine/100/000000/telegram-app.png"/>](https://t.me/vbhvdiwan)
